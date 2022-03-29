@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "dbdev",
+      "type": "com.erwin.DataSourceDev",
+      "sourceType": "com.erwin.DataSourceDev"
+    },
+    {
+      "name": "dbuat",
+      "type": "com.erwin.DataSourceUat",
+      "sourceType": "com.erwin.DataSourceUat"
+    }
+  ],
+  "properties": [
+    {
+      "name": "dbdev.driver-class",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceDev"
+    },
+    {
+      "name": "dbdev.password",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceDev"
+    },
+    {
+      "name": "dbdev.url",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceDev"
+    },
+    {
+      "name": "dbdev.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceDev"
+    },
+    {
+      "name": "dbuat.driver-class",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceUat"
+    },
+    {
+      "name": "dbuat.password",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceUat"
+    },
+    {
+      "name": "dbuat.url",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceUat"
+    },
+    {
+      "name": "dbuat.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.erwin.DataSourceUat"
+    }
+  ],
+  "hints": []
+}
